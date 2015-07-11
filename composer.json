@@ -1,0 +1,19 @@
+{
+  "name": "assouan/php-ormd",
+  "description": "orm dynamic",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": [
+    "ormd",
+    "orm",
+    "dynamic"
+  ],
+  "require": {
+    "assouan/php-plus": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
